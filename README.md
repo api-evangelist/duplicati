@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Duplicati is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://duplicati.com/
+Duplicati provides a free, open-source backup solution that offers zero‑trust, fully encrypted backups for your data. It integrates with all major cloud providers, ensuring secure storage and easy accessibility, while supporting individuals and enterprises with robust features and a user‑friendly interface.
+
+**Areas:** Company · Backup · Open-Source · Cloud · Security
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://duplicati.com/)
+- [Documentation](https://duplicati.com/download)
+- [Getting started](https://docs.duplicati.com/getting-started/installation)
+- [Pricing](https://duplicati.com/pricing)
+- [Blog](https://duplicati.com/articles)
+- [Terms of service](https://duplicati.com/legal/terms-of-service)
+- [Privacy policy](https://duplicati.com/legal/privacy-policy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/duplicati/](https://apis.io/providers/duplicati/).
